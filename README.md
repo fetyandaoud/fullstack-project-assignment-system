@@ -22,3 +22,22 @@ cd client
 npm install
 cd ..
 npm run dev
+
+# Fullstack Project – Employee Project Assignment System
+
+This project is a fullstack web application built with React, Express.js, and MongoDB Atlas.
+
+## Features
+- Add employees
+- Add projects
+- Assign employees to projects
+- View latest project assignments
+- Sort table columns
+- Auto-refresh data every minute
+
+## Tech Stack
+- React
+- Node.js
+- Express.js
+- MongoDB Atlas
+- Mongoose
